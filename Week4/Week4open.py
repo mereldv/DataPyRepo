@@ -18,4 +18,4 @@ for line in block:
     data.append( line.split() )  
 # check data na runnen script
 
-
+print("Hallo")
